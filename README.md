@@ -4,7 +4,7 @@
 
 📍 **Seattle, Washington, United States**  
 🎓 **Master's Student in Computer Science @ University of Florida**  
-📧 **[anvesh.gupta@ufl.edu](mailto:anvesh.gupta@ufl.edu)** | 📞 **+1 352-871-8497** | [[LinkedIn](https://linkedin.com/in/agcse)
+📧 **[anvesh.gupta@ufl.edu](mailto:anvesh.gupta@ufl.edu)** | 📞 **+1 352-871-8497** | [LinkedIn](https://linkedin.com/in/agcse)
 
 ---
 
