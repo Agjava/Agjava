@@ -27,18 +27,19 @@ TypeScript,
 CSS
 
 ### Frameworks & Technologies
-React.js
-Node.js
-Angular
-Flutter
-Django
-MongoDB
-Docker
+Html,
+React.js,
+Node.js,
+Angular,
+Flutter,
+Django,
+MongoDB,
+Docker,
 Kubernetes
 
 ### Cloud Platforms
-AWS
-Google Cloud Platform
+AWS,
+Google Cloud Platform,
 Azure
 
 ---
