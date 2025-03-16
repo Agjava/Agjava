@@ -56,7 +56,8 @@ Azure
 ### 🚩 Software Engineer Intern @ Race2Cloud *(Jun 2021 - Aug 2021)*
 - Engineered Spring Boot microservices backend; reduced API response times by **20%**.
 
-### 🚩 Data Analyst @ Maskgun *(Aug 2020 - Feb 2021)*
+### 🚩 UI Designer @ Maskgun *(Aug 2020 - Feb 2021)*
+- Revamped the home page using Unity UI , optimizing user experience to boost player retention and engagement by 13% through data-driven design iterations
 - Built ML models & data pipelines boosting revenue by **10%**.
 - Managed content creation and social media presence (10K+ followers).
 
