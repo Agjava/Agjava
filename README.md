@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I'm currently pursuing my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and data analytics, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
+I'm currently pursuing my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
 
 ---
 
@@ -23,6 +23,8 @@ JavaScript
 HTML5
 MATLAB
 C++
+TypeScript
+CSS
 
 ### Frameworks & Technologies
 React.js
