@@ -59,7 +59,7 @@ Azure
 ### 🚩 UI Designer @ Maskgun *(Aug 2020 - Feb 2021)*
 - Revamped the home page using Unity UI , optimizing user experience to boost player retention and engagement by 13% 
 - Built ML models & data pipelines boosting revenue by **10%**.
-- Managed content creation and social media presence (10K+ followers).
+- Created content using Adobe and managed a 10K+ Meta page, driving more than 50 million app downloads.
 
 ---
 
