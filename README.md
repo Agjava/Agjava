@@ -24,7 +24,7 @@ HTML5,
 MATLAB,
 C++,
 TypeScript,
-CSS,
+CSS
 
 ### Frameworks & Technologies
 React.js
