@@ -16,15 +16,15 @@ I'm currently pursuing my Master's in Computer Science at the University of Flor
 ## 🛠️ Tech Stack
 
 ### Languages
-Java
-Python
-SQL
-JavaScript
-HTML5
-MATLAB
-C++
-TypeScript
-CSS
+Java,
+Python,
+SQL,
+JavaScript,
+HTML5,
+MATLAB,
+C++,
+TypeScript,
+CSS,
 
 ### Frameworks & Technologies
 React.js
