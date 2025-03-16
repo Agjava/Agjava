@@ -99,10 +99,3 @@ Feel free to reach out to me via [Email](mailto:anvesh.gupta@ufl.edu), or connec
 
 ---
 
-Feel free to customize further if needed!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33015480/54c4fe08-09b3-4ae6-a5bc-d0675696a4e1/resume_final.pdf
-
----
-Answer from Perplexity: pplx.ai/share
