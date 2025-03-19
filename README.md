@@ -74,7 +74,7 @@ Azure
 - Scalable real-time messaging app built with React & Node.js using Socket.IO.
 - Integrated JWT authentication and MongoDB for persistence.
 
-### 🤖 [ADAM AI - Executive Assistant](#) *(Next.js, TypeScript, Tailwind CSS)*
+### 🤖 [ADAM AI - Executive Assistant]([#](https://devpost.com/software/adam-y0g7d2) ) *(Next.js, TypeScript, Tailwind CSS)*
 - AI assistant automating email management, scheduling & document handling.
 - Built during Hacklytics25 hackathon leveraging Next.js & WebSockets.
 
