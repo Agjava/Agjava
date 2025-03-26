@@ -6,12 +6,12 @@
 🎓 **Master's Student in Computer Science at University of Florida**  
 ✉️ **[anvesh.gupta@ufl.edu](mailto:anvesh.gupta@ufl.edu)** | 🔗 [LinkedIn](https://linkedin.com/in/agcse) | 📞 **+1 352-871-8497**
 
----
+
 
 ## 🚀 About Me
 I'm currently pursuing my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -42,7 +42,7 @@ AWS,
 Google Cloud Platform,
 Azure
 
----
+
 
 ## 💼 Professional Experience
 
@@ -62,7 +62,7 @@ Azure
 - Built ML models & data pipelines boosting revenue by **10%**.
 - Created content using Adobe and managed a 10K+ Meta page, driving more than 50 million app downloads.
 
----
+
 
 ## 📁 Projects
 
@@ -78,7 +78,7 @@ Azure
 - AI assistant automating email management, scheduling & document handling.
 - Built during Hacklytics25 hackathon leveraging Next.js & WebSockets.
 
----
+
 
 ## 🎓 Education
 | Degree | Institution | Year | GPA |
@@ -89,14 +89,14 @@ Azure
 🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF).  
 🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship).
 
----
+
 
 ## 📜 Certifications
 - AWS S3 (Amazon)
 - AI on Jetson Nano (NVIDIA)
 - Azure VM & Web Server Deployment (Microsoft)
 
----
+
 
 ## 📫 Let's Connect!
 Feel free to reach out to me via [Email](mailto:anvesh.gupta@ufl.edu), or connect with me on [LinkedIn](https://linkedin.com/in/agcse). I'm always open to discussing new ideas or collaboration opportunities!
