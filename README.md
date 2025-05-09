@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me
-I'm currently pursuing my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
+Completed my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
 
 
 
@@ -50,29 +50,11 @@ Azure
 - Developed a robust Admin Portal using HTML, CSS, TypeScript; improved operational efficiency by **10%**.
 - Built cross-platform mobile application with Flutter and Dart for enhanced user accessibility.
 
-### 🚩 FullStack Developer Intern @ Race2Cloud *(May 2022 - Sep 2022)*
-- Created responsive React/TypeScript web app; improved user response time by **15%**.
-- Automated AWS EC2 deployments using Docker; increased deployment success rate by **10%**.
-
-### 🚩 Software Engineer Intern @ Race2Cloud *(Jun 2021 - Aug 2021)*
-- Engineered Spring Boot microservices backend; reduced API response times by **20%**.
-
-### 🚩 UI Designer @ Maskgun *(Aug 2020 - Feb 2021)*
-- Revamped the home page using Unity UI , optimizing user experience to boost player retention and engagement by 13% 
-- Built ML models & data pipelines boosting revenue by **10%**.
-- Created content using Adobe and managed a 10K+ Meta page, driving more than 50 million app downloads.
-
-
-
 ## 📁 Projects
 
 ### 🎮 [Game Analytics HUB](#) *(MongoDB, Express.js, React.js, Node.js)*
 - Full-stack web app visualizing gaming metrics with OAuth authentication.
 - Deployed via Render with CI/CD pipeline (GitHub Actions).
-
-### 💬 [Real-Time Chat Application](#) *(React.js, Node.js, WebSocket, MongoDB)*
-- Scalable real-time messaging app built with React & Node.js using Socket.IO.
-- Integrated JWT authentication and MongoDB for persistence.
 
 ### 🤖 [ADAM AI - Executive Assistant](https://devpost.com/software/adam-y0g7d2) *(Next.js, TypeScript, Tailwind CSS)*
 - AI assistant automating email management, scheduling & document handling.
