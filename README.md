@@ -10,9 +10,9 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 |--------|-------------|------|-----|
 | MS in Computer Science
 🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF). | University of Florida | 2023 - 2025 | 3.5/4 |
-| B.Tech in Electronics & Communication Engineering (Minor: CSE) | Thapar Institute of Engineering and Technology | 2019 - 2023 | 3.7/4 |
+| B.Tech in Electronics & Communication Engineering (Minor: CSE), 🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship). | Thapar Institute of Engineering and Technology | 2019 - 2023 | 3.7/4 |
  
-🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship).
+
 
 ### 📊 My LeetCode Stats & Profile:
 [![My LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/anushka_gupta11/)
