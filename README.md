@@ -3,7 +3,8 @@
 ## 👋 Hi, I'm Anvesh Gupta
 
 📍 **Seattle, Washington, United States**  
-🎓 **Master's Student in Computer Science at University of Florida**  
+🎓 **Master's in Computer Science at University of Florida**  
+🎓 **Bachelors's with minor in Computer Science at Thapar Institute of Engineering and Technology** 
 
 
 
