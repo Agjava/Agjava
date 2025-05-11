@@ -8,9 +8,11 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 ## 🎓 Education
 | Degree | Institution | Year | GPA |
 |--------|-------------|------|-----|
-| MS in Computer Science | University of Florida | 2023 - 2025 | 3.5/4 |
+| MS in Computer Science
+🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF). 
+| University of Florida | 2023 - 2025 | 3.5/4 |
 | B.Tech in Electronics & Communication Engineering (Minor: CSE) | Thapar Institute of Engineering and Technology | 2019 - 2023 | 3.7/4 |
-🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF).  
+ 
 🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship).
 
 ### 📊 My LeetCode Stats & Profile:
