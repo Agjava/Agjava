@@ -17,19 +17,19 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://leetcode.com/Anvesh_gupta">
-        <img src="https://leetcard.jacoblin.cool/Anvesh_gupta" alt="Anvesh_gupta LeetCode Stats" />
-      </a>
-      <br/>
-      <em>My primary account. Aiming for 600+!</em>
-    </td>
-    <td align="center">
+       <td align="center">
       <a href="https://leetcode.com/anushka_anvesh">
         <img src="https://leetcard.jacoblin.cool/anushka_anvesh" alt="anushka_anvesh LeetCode Stats" />
       </a>
       <br/>
       <em>My secondary account, focusing on specific topics.</em>
+    </td>
+     <td align="center">
+      <a href="https://leetcode.com/Anvesh_gupta">
+        <img src="https://leetcard.jacoblin.cool/Anvesh_gupta" alt="Anvesh_gupta LeetCode Stats" />
+      </a>
+      <br/>
+      <em>My primary account. Aiming for 600+!</em>
     </td>
   </tr>
 </table>            
