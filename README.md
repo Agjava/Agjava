@@ -14,7 +14,7 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 
 
 ### 📊 My LeetCode Stats & Profile:
-[![My LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/anushka_gupta11/)
+(https://github-leetcode-stats.vercel.app/api?username=anushka_gupta11&theme=dark&show_tags=true&show_solved_counts=true&show_activity=true&activity_year=2024)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 
 
 ## 🛠️ Tech Stack
