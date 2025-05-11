@@ -62,7 +62,7 @@ Azure
 
 ### 🤖 [ADAM AI - Executive Assistant](https://devpost.com/software/adam-y0g7d2) *(Next.js, TypeScript, Tailwind CSS)*
 - AI assistant automating email management, scheduling & document handling.
-- Built during Hacklytics25 hackathon leveraging Next.js & WebSockets.
+- Built during Georgia Tech's  hackathon leveraging Next.js & WebSockets.
 
 
 
