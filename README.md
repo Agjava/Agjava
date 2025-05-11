@@ -15,7 +15,7 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 
 ### 📊 My LeetCode Stats & Profile:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Anvesh_gupta)](https://leetcode.com/Anvesh_gupta)         [![LeetCode Stats](https://leetcard.jacoblin.cool/anushka_gupta11)](https://leetcode.com/anushka_gupta11)             
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Anvesh_gupta)](https://leetcode.com/Anvesh_gupta)         [![LeetCode Stats](https://leetcard.jacoblin.cool/anushka_anvesh)](https://leetcode.com/anushka_anvesh)             
 
 
 
