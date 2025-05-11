@@ -11,7 +11,8 @@
 ## 🚀 About Me
 Completed my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
 
-![Dmytro Baida's LeetCode stats neutral](https://leetcode-badge-sage.vercel.app/badge/{anushka_gupta11}?theme=neutral)
+### 📊 My LeetCode Stats & Profile:
+[![My LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/anushka_gupta11/)
 
 
 ## 🛠️ Tech Stack
