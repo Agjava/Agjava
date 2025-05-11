@@ -2,15 +2,16 @@
 
 ## 👋 Hi, I'm Anvesh Gupta
 
-📍 **Seattle, Washington, United States**  
-🎓 **Master's in Computer Science at University of Florida**  
-🎓 **Bachelors's with minor in Computer Science at Thapar Institute of Engineering and Technology** 
-
-
-
-
 ## 🚀 About Me
 Completed my Master's in Computer Science at the University of Florida. Passionate about software development, cloud computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
+
+## 🎓 Education
+| Degree | Institution | Year | GPA |
+|--------|-------------|------|-----|
+| MS in Computer Science | University of Florida | 2023 - 2025 | 3.5/4 |
+| B.Tech in Electronics & Communication Engineering (Minor: CSE) | Thapar Institute of Engineering and Technology | 2019 - 2023 | 3.7/4 |
+🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF).  
+🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship).
 
 ### 📊 My LeetCode Stats & Profile:
 [![My LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat-square&logo=leetcode)](https://leetcode.com/anushka_gupta11/)
@@ -65,14 +66,7 @@ Azure
 
 
 
-## 🎓 Education
-| Degree | Institution | Year | GPA |
-|--------|-------------|------|-----|
-| MS in Computer Science | University of Florida | 2023 - 2025 | 3.5/4 |
-| B.Tech in Electronics & Communication Engineering (Minor: CSE) | Thapar Institute of Engineering and Technology | 2019 - 2023 | 3.7/4 |
 
-🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF).  
-🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship).
 
 
 
