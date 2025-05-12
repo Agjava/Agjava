@@ -29,7 +29,7 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
         <img src="https://leetcard.jacoblin.cool/Anvesh_gupta" alt="Anvesh_gupta LeetCode Stats" />
       </a>
       <br/>
-      <em>My Primary account.</em>
+      <em>My Primary account</em>
     </td>
   </tr>
 </table>            
