@@ -33,35 +33,3 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
     </td>
   </tr>
 </table>            
-
-
-
-
-## 🛠️ Tech Stack
-
-### Languages
-Java,
-Python,
-SQL,
-JavaScript,
-HTML5,
-MATLAB,
-C++,
-TypeScript,
-CSS
-
-### Frameworks & Technologies
-Html,
-React.js,
-Node.js,
-Angular,
-Flutter,
-Django,
-MongoDB,
-Docker,
-Kubernetes
-
-### Cloud Platforms
-AWS,
-Google Cloud Platform,
-Azure
