@@ -32,20 +32,44 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
       <em>My Primary account</em>
     </td>
   </tr>
+  <!-- New Row for Heatmaps -->
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
+      <strong>anushka_anvesh Activity:</strong><br/><br/>
+      <em>Current Year:</em><br/>
       <a href="https://leetcode.com/anushka_anvesh">
-        <img src="https://leetcard.jacoblin.cool/anushka_anvesh?ext=heatmap" alt="anushka_anvesh LeetCode Heatmap" />
+        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=current" alt="anushka_anvesh Current Year LeetCode Activity Heatmap" width="380"/>
+        <!-- Adjusted width for better fit, default might be too wide -->
       </a>
-      <br/>
-      <em>Activity Heatmap (anushka_anvesh)</em>
+      <br/><br/>
+      <em>Last Year (2023):</em><br/>
+      <a href="https://leetcode.com/anushka_anvesh">
+        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=2023" alt="anushka_anvesh 2023 LeetCode Activity Heatmap" width="380"/>
+      </a>
+      <br/><br/>
+      <em>Year 2022:</em><br/>
+      <a href="https://leetcode.com/anushka_anvesh">
+        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=2022" alt="anushka_anvesh 2022 LeetCode Activity Heatmap" width="380"/>
+      </a>
+      <!-- Add more years as needed -->
     </td>
-    <td align="center">
+    <td align="center" valign="top">
+      <strong>Anvesh_gupta Activity:</strong><br/><br/>
+      <em>Current Year:</em><br/>
       <a href="https://leetcode.com/Anvesh_gupta">
-        <img src="https://leetcard.jacoblin.cool/Anvesh_gupta?ext=heatmap" alt="Anvesh_gupta LeetCode Heatmap" />
+        <img src="https://leetcode-stats.vercel.app/api?username=Anvesh_gupta&theme=light&year=current" alt="Anvesh_gupta Current Year LeetCode Activity Heatmap" width="380"/>
       </a>
-      <br/>
-      <em>Activity Heatmap (Anvesh_gupta)</em>
+      <br/><br/>
+      <em>Last Year (2023):</em><br/>
+      <a href="https://leetcode.com/Anvesh_gupta">
+        <img src="https://leetcode-stats.vercel.app/api?username=Anvesh_gupta&theme=light&year=2023" alt="Anvesh_gupta 2023 LeetCode Activity Heatmap" width="380"/>
+      </a>
+      <br/><br/>
+      <em>Year 2022:</em><br/>
+      <a href="https://leetcode.com/Anvesh_gupta">
+        <img src="https://leetcode-stats.vercel.app/api?username=Anvesh_gupta&theme=light&year=2022" alt="Anvesh_gupta 2022 LeetCode Activity Heatmap" width="380"/>
+      </a>
+      <!-- Add more years as needed -->
     </td>
   </tr>
-</table>           
+</table>
