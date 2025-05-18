@@ -42,15 +42,6 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
         <!-- Adjusted width for better fit, default might be too wide -->
       </a>
       <br/><br/>
-      <em>Last Year (2023):</em><br/>
-      <a href="https://leetcode.com/anushka_anvesh">
-        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=2023" alt="anushka_anvesh 2023 LeetCode Activity Heatmap" width="380"/>
-      </a>
-      <br/><br/>
-      <em>Year 2022:</em><br/>
-      <a href="https://leetcode.com/anushka_anvesh">
-        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=2022" alt="anushka_anvesh 2022 LeetCode Activity Heatmap" width="380"/>
-      </a>
       <!-- Adjusted width for better fit, default might be too wide -->
     </td>
     <td align="center" valign="top">
