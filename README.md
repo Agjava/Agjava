@@ -17,14 +17,14 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 
 <table>
   <tr>
-       <td align="center">
+    <td align="center">
       <a href="https://leetcode.com/anushka_anvesh">
         <img src="https://leetcard.jacoblin.cool/anushka_anvesh" alt="anushka_anvesh LeetCode Stats" />
       </a>
       <br/>
-      <em>My Leetcode Premium account </em>
+      <em>My Leetcode Premium account</em>
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://leetcode.com/Anvesh_gupta">
         <img src="https://leetcard.jacoblin.cool/Anvesh_gupta" alt="Anvesh_gupta LeetCode Stats" />
       </a>
@@ -32,4 +32,20 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
       <em>My Primary account</em>
     </td>
   </tr>
-</table>            
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/anushka_anvesh">
+        <img src="https://leetcard.jacoblin.cool/anushka_anvesh?ext=heatmap" alt="anushka_anvesh LeetCode Heatmap" />
+      </a>
+      <br/>
+      <em>Activity Heatmap (anushka_anvesh)</em>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/Anvesh_gupta">
+        <img src="https://leetcard.jacoblin.cool/Anvesh_gupta?ext=heatmap" alt="Anvesh_gupta LeetCode Heatmap" />
+      </a>
+      <br/>
+      <em>Activity Heatmap (Anvesh_gupta)</em>
+    </td>
+  </tr>
+</table>           
