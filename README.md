@@ -51,7 +51,7 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
       <a href="https://leetcode.com/anushka_anvesh">
         <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=2022" alt="anushka_anvesh 2022 LeetCode Activity Heatmap" width="380"/>
       </a>
-      <!-- Add more years as needed -->
+    
     </td>
     <td align="center" valign="top">
       <strong>Anvesh_gupta Activity:</strong><br/><br/>
