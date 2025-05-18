@@ -16,6 +16,7 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
 ### 📊 My LeetCode Stats & Profile:
 
 <table>
+  <!-- First Row: Existing LeetCode Stats Cards -->
   <tr>
     <td align="center">
       <a href="https://leetcode.com/anushka_anvesh">
@@ -32,20 +33,22 @@ Completed my Master's in Computer Science at the University of Florida. Passiona
       <em>My Primary account</em>
     </td>
   </tr>
-  <!-- New Row for Specific Heatmaps -->
+  <!-- Second Row: LeetCode Activity Heatmaps -->
   <tr>
     <td align="center" valign="top">
       <strong>anushka_anvesh Activity:</strong><br/><br/>
       <em>Current Year:</em><br/>
       <a href="https://leetcode.com/anushka_anvesh">
-        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=light&year=current" alt="anushka_anvesh Current Year LeetCode Activity Heatmap" width="380"/>
+        <!-- This is the heatmap for anushka_anvesh, current year -->
+        <img src="https://leetcode-stats.vercel.app/api?username=anushka_anvesh&theme=dark&year=current" alt="anushka_anvesh Current Year LeetCode Activity Heatmap" width="380"/>
       </a>
     </td>
     <td align="center" valign="top">
       <strong>Anvesh_gupta Activity:</strong><br/><br/>
       <em>Year 2023:</em><br/>
       <a href="https://leetcode.com/Anvesh_gupta">
-        <img src="https://leetcode-stats.vercel.app/api?username=Anvesh_gupta&theme=light&year=2023" alt="Anvesh_gupta 2023 LeetCode Activity Heatmap" width="380"/>
+        <!-- This is the heatmap for Anvesh_gupta, year 2023 -->
+        <img src="https://leetcode-stats.vercel.app/api?username=Anvesh_gupta&theme=dark&year=2023" alt="Anvesh_gupta 2023 LeetCode Activity Heatmap" width="380"/>
       </a>
     </td>
   </tr>
