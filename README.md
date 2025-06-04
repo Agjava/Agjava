@@ -1,8 +1,3 @@
-### 👋 Hi, I'm Anvesh Gupta
-
-## 🚀 About Me
-Completed my Master's in Computer Science at the University of Florida. Passionate about Software Engineering Development, Cloud Computing, and UI/UX, I enjoy building robust web applications, scalable backend systems, and insightful data-driven solutions.
-
 ## 🎓 Education
 | Degree | Institution | Year | 
 |--------|-------------|------------------|
