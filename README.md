@@ -1,7 +1,7 @@
 ## 🎓 Education
 | Degree | Institution | Year | 
 |--------|-------------|------------------|
-| MS in Computer Science <br> 🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF). | University of Florida | 2023  -   <br>2025 | 
+| MS in Computer Science <br> 🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award Scholarship (UF). | University of Florida | 2023  -   2025 | 
 | B.Tech in Electronics & Communication Engineering (Minor: CSE) <br> 🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship). | Thapar Institute of Engineering and Technology | 2019  -  2023 |
  
 
