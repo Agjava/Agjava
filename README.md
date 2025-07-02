@@ -2,7 +2,7 @@
 | Degree | Institution |
 |--------|-------------|
 | Master's in Computer Science <br>🏅 Recipient of Herbert Wertheim College of Engineering Achievement Award | University of Florida | 
-| Bachelors in Electronics & Communication Engineering (Minor: CSE) <br>🏅 Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship). | Thapar Institute of Engineering and Technology | 
+| Bachelors in Electronics & Communication Engineering (Minor: CSE) <br>🏅 Recipient of TIET Merit-Cum-Means Scholarship. | Thapar Institute of Engineering and Technology | 
  
 
 
