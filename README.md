@@ -32,12 +32,10 @@
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
 </p>
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-![Anvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agjava&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agjava&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+![Snake animation](https://raw.githubusercontent.com/Agjava/Agjava/output/github-contribution-grid-snake-dark.svg)
 
 
