@@ -35,7 +35,10 @@
 ## 🏆 Professional Achievements
 
 **Thapar Institute of Engineering and Technology**
-*Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship) *
+<div>
+ *Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship) *
+</div>
+
 
 **University of Florida** 
 *Recipient of the Herbert Wertheim College of Engineering Achievement Award Scholarship.*
