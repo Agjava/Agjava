@@ -45,7 +45,7 @@
 
 **🎓 TIET Merit-Cum-Means Scholarship**
 *Thapar Institute of Engineering and Technology*
-> Academic scholarship recipient for outstanding performance in Electronics and Communication Engineering program
+> Top 0.1-0.2% academic award for outstanding performance in Electronics and Communication Engineering program
 
 
 
