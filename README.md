@@ -26,3 +26,9 @@
     </td>
   </tr>
 </table>
+
+## 🔥 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
+</p>
