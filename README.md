@@ -40,10 +40,13 @@
 ## 🏆 Achievements
 
 **🥇 Herbert Wertheim College of Engineering Achievement Award**
-*Top 5% at UF | $4,500 Merit Scholarship for Excellence*
+*University of Florida*
+> Top 5% academic performance recognition with $4,500 Merit Scholarship for Excellence in Computer Science program
 
 **🎓 TIET Merit-Cum-Means Scholarship**
-*Academic scholarship recipient at Thapar Institute of Engineering and Technology*
+*Thapar Institute of Engineering and Technology*
+> Academic scholarship recipient for outstanding performance in Electronics and Communication Engineering program
+
 
 
 
