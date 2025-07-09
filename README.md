@@ -4,7 +4,7 @@
 
 ### Software Engineer • Full-Stack Developer • Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Solving+Real+World+Problems;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Real+World+Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
 </div>
 
