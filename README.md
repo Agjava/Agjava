@@ -32,10 +32,13 @@
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
 </p>
 
-## 🐍 Contribution Snake Animation
+## 🏆 Professional Achievements
 
-<div align="center">
+**Thapar Institute of Engineering and Technology**
+*Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship) *
 
-![Snake animation](https://raw.githubusercontent.com/Agjava/Agjava/output/github-contribution-grid-snake-dark.svg)
+**University of Florida** 
+*Recipient of the Herbert Wertheim College of Engineering Achievement Award Scholarship.*
+
 
 
