@@ -39,33 +39,24 @@
 
 ## 🏆 Achievements
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<strong>🥇 Herbert Wertheim College of Engineering Achievement Award</strong>
-<em>University of Florida</em>
-</div>
+<table width="100%" style="border-collapse: separate; border-spacing: 20px 0;">
+<tr>
+<td align="left" style="padding-right: 50px;"><strong>🥇 Herbert Wertheim College of Engineering Achievement Award</strong></td>
+<td align="right"><em>University of Florida</em></td>
+</tr>
+</table>
 
 > Top 5% academic performance recognition with $4,500 Merit Scholarship for Excellence in Computer Science program
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<strong>🧠 Graduate Research Assistantship</strong>
-<em>University of Florida - CISE Department</em>
-</div>
+<table width="100%" style="border-collapse: separate; border-spacing: 20px 0;">
+<tr>
+<td align="left" style="padding-right: 50px;"><strong>🎓 TIET Merit-Cum-Means Scholarship</strong></td>
+<td align="right"><em>Thapar Institute of Engineering and Technology</em></td>
+</tr>
+</table>
 
-> Awarded for academic excellence and contributions to research in Computer & Information Science & Engineering
+> Top 0.1% Academic scholarship for outstanding performance in Electronics and Communication Engineering program
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<strong>⚡ Competitive Programming Excellence</strong>
-<em>LeetCode, Codeforces & Other Platforms</em>
-</div>
-
-> Top 5% ranking across multiple coding platforms, recognized for exceptional problem-solving and algorithmic skills
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<strong>🎓 TIET Merit-Cum-Means Scholarship</strong>
-<em>Thapar Institute of Engineering and Technology</em>
-</div>
-
-> Academic scholarship recipient for outstanding performance in Electronics and Communication Engineering program
 
 
 
