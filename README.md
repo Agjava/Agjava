@@ -32,3 +32,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
 </p>
+
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
