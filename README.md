@@ -2,6 +2,11 @@
 
 ### Software Engineer • Full-Stack Developer • Cloud Enthusiast
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+Solutions+Architect;Mobile+App+Developer;Problem+Solver)](https://git.io/typing-svg)
+
+</div>
  
 
 
