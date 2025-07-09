@@ -37,16 +37,14 @@
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
 </p>
 
-## 🏆 Professional Achievements
+## 🏆 Achievements
 
-**Thapar Institute of Engineering and Technology**
-<div>
- *Recipient of Academic Scholarship (TIET Merit-Cum-Means Scholarship) *
-</div>
+**🥇 Herbert Wertheim College of Engineering Achievement Award**
+*Top 5% at UF | $4,500 Merit Scholarship for Excellence*
 
+**🎓 TIET Merit-Cum-Means Scholarship**
+*Academic scholarship recipient at Thapar Institute of Engineering and Technology*
 
-**University of Florida** 
-*Recipient of the Herbert Wertheim College of Engineering Achievement Award Scholarship.*
 
 
 
