@@ -36,25 +36,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,angular,react,nodejs,python,java,flutter,docker,aws,azure,mongodb,postgres" />
 </p>
 
-## 🏆 Achievements
 
-<table width="100%" style="border-collapse: separate; border-spacing: 20px 0;">
-<tr>
-<td align="left" style="padding-right: 50px;"><strong>🥇 Herbert Wertheim College of Engineering Achievement Award</strong></td>
-<td align="right"><em>University of Florida</em></td>
-</tr>
-</table>
-
-> Top 5% academic performance recognition with $4,500 Merit Scholarship for Excellence in Computer Science program
-
-<table width="100%" style="border-collapse: separate; border-spacing: 20px 0;">
-<tr>
-<td align="left" style="padding-right: 50px;"><strong>🎓 TIET Merit-Cum-Means Scholarship</strong></td>
-<td align="right"><em>Thapar Institute of Engineering and Technology</em></td>
-</tr>
-</table>
-
-> Top 0.1% Academic scholarship for outstanding performance in Electronics and Communication Engineering program
 
 
 
