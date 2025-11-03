@@ -7,21 +7,6 @@
 
 <div align="center">
 
-### 📊 My LeetCode Stats & Profile:
-
-<table>
-  <tr>
-     <td align="center">
-      <a href="https://leetcode.com/Anvesh_gupta">
-        <img src="https://leetcard.jacoblin.cool/Anvesh_gupta" alt="Anvesh_gupta LeetCode Stats" />
-      </a>
-      <br/>
-      <em>My Primary account</em>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
 ## 🔥 Skills & Technologies
